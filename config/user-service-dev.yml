@@ -7,7 +7,7 @@ spring:
   application:
     name: user-service
     name: item-service
-    rabbitmq:
+  rabbitmq:
     host: 192.168.19.131
     port: 5672
     username: admin
